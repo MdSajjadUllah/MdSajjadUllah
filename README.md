@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Md. Sajjad Ullah
 
-🎓 Undergraduate CSE Student |
-💡 Software Developer | Data & Analytics Enthusiast | UI/UX Designer
+🎓 Undergraduate CSE Student | 💡 Software Developer | Data & Analytics Enthusiast | UI/UX Designer
 📍 Dhaka, Bangladesh
 
 ---
@@ -47,12 +46,13 @@ Git · GitHub · VS Code
 
 ---
 
-### 💡 Featured Projects
+### 💡 Featured Projects & Case Studies
 
-- [🤖 **SajBot**](https://github.com/MdSajjadUllah/SajBot) — Emotion-aware chatbot leveraging NLP and Streamlit
+- [🤖 **SajBot**](https://github.com/MdSajjadUllah/SajBot-The-Emotion-Whisperer) — Emotion-aware chatbot leveraging NLP and Streamlit
 - [🍽️ **FoodForYou**](https://github.com/MdSajjadUllah/FoodForYou) — Django-based online food ordering and management system
+- [🗳️ **JulyUprising**](https://github.com/MdSajjadUllah/DatabaseProject-JulyUprisingSystem) — Database-backed event management and protest tracking system
 - [🎨 **Behance Portfolio**](https://www.behance.net/mdfahimbiswas1) — UI/UX design projects & creative prototypes
-- [💼 **Personal Portfolio Website**]() — Built with HTML, CSS, JavaScript
+- [💼 **Personal Portfolio Website**](https://mdsajjadullah.github.io/) — Built with HTML, CSS, JavaScript
 
 ---
 

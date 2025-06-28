@@ -13,7 +13,7 @@ I am a passionate and curious undergraduate student in Computer Science and Engi
 I work across multiple areas:
 - **Web development (frontend & backend):** HTML, CSS, JavaScript, Django
 - **Data analytics & visualization:** Python, Pandas, SQL
-- **UI/UX design:** Figma, Adobe XD, Canva, Behance
+- **UI/UX design:** Figma, Canva, Behance
 - **AI-assisted solutions:** Chatbots, emotion-aware tools, and experimental interfaces
 
 I love blending technology with design to solve real-world problems, improve user experiences, and create visually engaging products. My work is guided by curiosity, a focus on detail, and a commitment to continuous learning.

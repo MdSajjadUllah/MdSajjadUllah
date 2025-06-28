@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Sajjad Ullah
 
-🎓 Undergraduate CSE Student | 🏅 Dean’s Award (Fall 2024)
+🎓 Undergraduate CSE Student |
 💡 Software Developer | Data & Analytics Enthusiast | UI/UX Designer
 📍 Dhaka, Bangladesh
 
@@ -32,10 +32,10 @@ Django · Streamlit · Bootstrap
 Pandas · Matplotlib · Data Visualization · Streamlit
 
 **Design & Prototyping**  
-Figma · Adobe XD · Canva
+Figma · Canva
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Vercel · Postman
+Git · GitHub · VS Code 
 
 ---
 
@@ -49,7 +49,6 @@ Git · GitHub · VS Code · Vercel · Postman
 
 ### 💡 Featured Projects
 
-- [🌐 **FloodMate**](https://github.com/MdSajjadUllah/FloodMate) — Offline disaster communication system using mesh networking concepts
 - [🤖 **SajBot**](https://github.com/MdSajjadUllah/SajBot) — Emotion-aware chatbot leveraging NLP and Streamlit
 - [🍽️ **FoodForYou**](https://github.com/MdSajjadUllah/FoodForYou) — Django-based online food ordering and management system
 - [🎨 **Behance Portfolio**](https://www.behance.net/mdfahimbiswas1) — UI/UX design projects & creative prototypes
@@ -64,7 +63,7 @@ Git · GitHub · VS Code · Vercel · Postman
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-nine-topaz-lyinboq5xp.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mdsajjadullahfahim)
 
-📧 **sajjadullahcse@gmail.com**
+📧 **01fahim84@gmail.com**
 
 ---
 

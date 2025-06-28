@@ -60,8 +60,8 @@ Git · GitHub · VS Code
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sajjad-ullah-1b1a0a213)
 [![Behance](https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=white)](https://www.behance.net/mdfahimbiswas1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-nine-topaz-lyinboq5xp.vercel.app/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mdsajjadullahfahim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://mdsajjadullah.github.io/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Wjpv76aiB/?mibextid=wwXIfr)
 
 📧 **01fahim84@gmail.com**
 

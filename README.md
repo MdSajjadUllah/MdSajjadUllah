@@ -71,9 +71,9 @@ Git · GitHub · VS Code
 
 ### 📊 GitHub Stats
 
-![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=github_dark)
+![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=github_dark&count_private=true&cache_seconds=86400)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=github_dark&cache_seconds=86400)
 ---
 
 _“Building solutions that are as elegant as they are impactful.”_

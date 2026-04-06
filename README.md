@@ -1,80 +1,94 @@
-# 👋 Hi, I'm Md.Sajjad Ullah
-![Profile Views](https://komarev.com/ghpvc/?username=MdSajjadUllah&color=blue)
+<h1 align="center">Hi 👋, I'm Md Sajjad Ullah</h1>
+<h3 align="center">💻 CSE Student | 🚀 Software Developer | 🎨 UI/UX Designer</h3>
 
-🎓 Undergraduate CSE Student | 💡 Software Developer | Data & Analytics Enthusiast | UI/UX Designer
-
-📍 Dhaka, Bangladesh
-
----
-
-### 🧭 About Me
-
-I am a passionate and curious undergraduate student in Computer Science and Engineering, dedicated to turning ideas into impactful digital experiences.
-
-I work across multiple areas:
-- **Web development (frontend & backend):** HTML, CSS, JavaScript, Django
-- **Data analytics & visualization:** Python, Pandas, SQL
-- **UI/UX design:** Figma, Canva, Behance
-- **AI-assisted solutions:** Chatbots, emotion-aware tools, and experimental interfaces
-
-I love blending technology with design to solve real-world problems, improve user experiences, and create visually engaging products. My work is guided by curiosity, a focus on detail, and a commitment to continuous learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdSajjadUllah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-### 🛠️ Technical Skills & Tools
+## 🧠 About Me
 
-**Languages & Databases**  
-Python · JavaScript · C · HTML/CSS · SQL · MySQL
-
-**Frameworks & Libraries**  
-Django · Streamlit · Bootstrap
-
-**Data & Analytics**  
-Pandas · Matplotlib · Data Visualization · Streamlit
-
-**Design & Prototyping**  
-Figma · Canva
-
-**Tools & Platforms**  
-Git · GitHub · VS Code 
+🎓 CSE Undergraduate at UAP  
+💡 Passionate about building real-world impactful solutions  
+🎨 Love combining **design + development**  
+📊 Interested in **Data Analytics & AI-based systems**
 
 ---
 
-### 📚 Certifications & Achievements
+## ⚡ Tech Stack
 
-- 🏢 Walmart Software Engineering Virtual Experience — The Forage
-- 📊 Deloitte Data Analytics Virtual Experience — The Forage
-- 🏆 Dean’s Award — University of Asia Pacific (Fall 2024)
+### 💻 Languages
+`Python` `JavaScript` `C` `SQL` `HTML` `CSS`
 
----
+### 🚀 Frameworks & Tools
+`Django` `Streamlit` `Bootstrap`
 
-### 💡 Featured Projects & Case Studies
+### 📊 Data & Analytics
+`Pandas` `Matplotlib` `Data Visualization`
 
-- [🤖 **SajBot**](https://github.com/MdSajjadUllah/SajBot-The-Emotion-Whisperer) — Emotion-aware chatbot leveraging NLP and Streamlit
-- [🍽️ **FoodForYou**](https://github.com/MdSajjadUllah/FoodForYou) — Django-based online food ordering and management system
-- [🗳️ **JulyUprising**](https://github.com/MdSajjadUllah/DatabaseProject-JulyUprisingSystem) — Database-backed event management and protest tracking system
-- [🎨 **Behance Portfolio**](https://www.behance.net/mdfahimbiswas1) — UI/UX design projects & creative prototypes
-- [💼 **Personal Portfolio Website**](https://mdsajjadullah.github.io/) — Built with HTML, CSS, JavaScript
+### 🎨 Design
+`Figma` `Canva`
 
----
-
-### 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sajjad-ullah-1b1a0a213)
-[![Behance](https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=white)](https://www.behance.net/mdfahimbiswas1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://mdsajjadullah.github.io/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Wjpv76aiB/?mibextid=wwXIfr)
-
-📧 **01fahim84@gmail.com**
+### 🛠️ Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Sajjad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+🔹 **SajBot**  
+👉 Emotion-aware chatbot using NLP & Streamlit  
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=tokyonight&hide_border=true)
+🔹 **FoodForYou**  
+👉 Full-stack Django food ordering system  
+
+🔹 **JulyUprising System**  
+👉 Database-driven event tracking system  
+
+🔹 **Portfolio Website**  
+👉 Personal responsive portfolio  
 
 ---
 
-_“Building solutions that are as elegant as they are impactful.”_
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-sajjad-ullah-1b1a0a213"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/mdfahimbiswas1"><img src="https://img.shields.io/badge/Behance-0057ff?logo=behance&logoColor=white"/></a>
+  <a href="https://mdsajjadullah.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1Wjpv76aiB/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+</p>
+
+📧 Email: **01fahim84@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdSajjadUllah&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ✨ Fun Add-on (Typing Effect)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast;Always+Learning+New+Things"/>
+</p>
+
+---
+
+## 💬 Quote
+
+> “Building solutions that are as elegant as they are impactful.”

@@ -71,9 +71,9 @@ Git · GitHub · VS Code
 
 ### 📊 GitHub Stats
 
-![Sajjad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=github_dark&count_private=true)
+![Sajjad's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MdSajjadUllah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdSajjadUllah&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
